@@ -1,10 +1,58 @@
+<!DOCTYPE html>
 <html>
-<body>
-  <h1>Hello!</h1>
+<title>Welcome to my homepage</title>
+<meta charset="UTF-8">
+
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+</style>
+<body >
 
 
+<!-- Introduction menu -->
+<div class="w3-col l4">
+  <!-- About Card -->
+  <div class="w3-card w3-margin w3-margin-top">
+
+    <div class="w3-container w3-white">
+      <h4><b>In-Koo Cho</b></h4>
+      <p>I am Asa Griggs Candler Professor at Emory University.</p>
+    </div>
+  </div><hr>
   
+  <!-- Posts -->
+  <div class="w3-card w3-margin">
+    <div class="w3-container w3-padding">
+      <h4>Links</h4>
+    </div>
+    <ul class="w3-ul w3-hoverable w3-white">
+      <li class="w3-padding-16">
+        <span class="w3-large">About me</span><br>
 
-  
+      </li>
+      <li class="w3-padding-16">
+        <span class="w3-large">Teaching</span><br>
+
+      </li> 
+      <li class="w3-padding-16">
+        <span class="w3-large">Research</span><br>
+
+
+      </li>   
+      <li class="w3-padding-16 w3-hide-medium w3-hide-small">
+        <span class="w3-large">Asian Summer School in Economic Theory</span><br>
+
+      </li>
+</li>   
+      <li class="w3-padding-16 w3-hide-medium w3-hide-small">
+        <span class="w3-large">Professional services</span><br>
+
+    </ul>
+  </div>
+  <hr> 
+ 
+
+
+
 </body>
 </html>
